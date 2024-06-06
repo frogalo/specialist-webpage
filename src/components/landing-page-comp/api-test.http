@@ -1,0 +1,3 @@
+### GET request with a header
+GET http://localhost:1337/api/hero-sections
+Accept: application/json
